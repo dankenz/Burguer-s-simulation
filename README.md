@@ -15,3 +15,4 @@ https://en.wikipedia.org/wiki/Burgers%27_equation
 For more information about the method see: 'Numerical recipes: the art of scientific computing' third edition from william H. Press, Saul A. Teukolsky, William T. Vetterling and Brian P. Flannery
 
 
+In the 'Solutions.rar' file you can find 2 small animations of the solutions from the NDSolve and the hard coded. If you cant open the mathematica file you can open the pdf version.
